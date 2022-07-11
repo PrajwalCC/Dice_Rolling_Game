@@ -1,1 +1,7 @@
-Hello world
+path -> cmd
+git init
+git add .
+git commit -m "first commit"
+git remote add origin <http:......>
+git push -u origin master
+exit
