@@ -5,3 +5,8 @@ git commit -m "first commit"
 git remote add origin <http:......>
 git push -u origin master
 exit
+
+to Update to repo
+git add .
+git commit -m "message"
+git push -u origin master
